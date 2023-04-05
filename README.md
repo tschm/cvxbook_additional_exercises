@@ -1,4 +1,4 @@
-# cvxbook_additional_exercises
+# [cvxbook_additional_exercises](https://tschm.github.io/cvxbook_additional_exercises/)
 
 This repo contains additional exercises and data files in Python, Julia, and Matlab for Stanford [EE364a, 
 Convex Optimization](https://web.stanford.edu/class/ee364a/), that do not appear in the book 
